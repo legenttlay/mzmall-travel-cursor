@@ -1,0 +1,23 @@
+{
+  "name": "mzmall-travel",
+  "displayName": "MZ MALL Travel",
+  "version": "0.1.0",
+  "description": "Search and book MZ MALL eSIMs, instant-confirmation hotels and chauffeured cars, and select flights for secure website checkout.",
+  "author": {
+    "name": "legenttlay"
+  },
+  "homepage": "https://888688889.com/agent-travel/",
+  "logo": "assets/logo.svg",
+  "keywords": [
+    "travel",
+    "esim",
+    "hotels",
+    "flights",
+    "charter",
+    "Myanmar"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./mcp.json",
+  "repository": "https://github.com/legenttlay/mzmall-travel-cursor",
+  "license": "MIT"
+}

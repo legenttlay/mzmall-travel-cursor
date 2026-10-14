@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mzmall-travel": {
+      "url": "https://888688889.com/agent-travel/mcp",
+      "auth": { "CLIENT_ID": "mzmall-cursor-travel", "scopes": ["travel:read", "travel:book"] }
+    }
+  }
+}
