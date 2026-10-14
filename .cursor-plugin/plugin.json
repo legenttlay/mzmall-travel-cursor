@@ -1,8 +1,8 @@
 {
   "name": "mzmall-travel",
   "displayName": "MZ MALL Travel",
-  "version": "0.3.0",
-  "description": "Search and book MZ MALL eSIMs, instant-confirmation hotels and chauffeured cars, and select flights for secure website checkout.",
+  "version": "0.4.0",
+  "description": "Search and book MZ MALL eSIMs, instant-confirmation hotels and chauffeured cars, select flights, and request visa services or admission tickets for secure website checkout.",
   "author": {
     "name": "legenttlay"
   },
@@ -14,7 +14,9 @@
     "hotels",
     "flights",
     "charter",
-    "Myanmar"
+    "Myanmar",
+    "visa",
+    "tickets"
   ],
   "skills": "./skills/",
   "mcpServers": "./mcp.json",
