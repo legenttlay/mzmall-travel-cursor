@@ -22,3 +22,5 @@
 远程地址：`https://888688889.com/agent-travel/mcp`。公开客户端 ID：`mzmall-cursor-travel`，权限：`travel:read travel:book`。没有客户端密钥。
 
 维护与问题反馈：[GitHub Issues](https://github.com/legenttlay/mzmall-travel-cursor/issues)。MIT 许可仅涵盖本插件文件，不改变旅行产品条款。
+
+0.1.1 修复了正式旅行服务无法执行查询的问题，并区分服务报错与没有可售产品。服务更新保持原 APP 和订单流程。
